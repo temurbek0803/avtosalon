@@ -370,17 +370,17 @@ img{
     }
     .banner__content{
         display: grid;
-        grid-template-columns: 1fr;
+        grid-template-columns: 100%;
         gap: 3rem;
     }
     .avto__content{
         display: grid;
-        grid-template-columns: 1fr;
+        grid-template-columns: 100%;
         gap: 3rem;
     }
     .what__content{
         display: grid;
-        grid-template-columns: 1fr;
+        grid-template-columns: 100%;
         gap: 3rem;
     }
     .testimonial__content{
